@@ -67,7 +67,14 @@ GROUP BY JobRole, Department
 ORDER BY EmployeeCount DESC;
 
 
--- 7. Turnover rate of employees from each department
+-- 7. Overall turnover rate
+
+SELECT COUNT(*) AS TotalEmployees, SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS `Left`, CONCAT(ROUND(SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100, 2), '%') AS TurnoverRate
+FROM employee_job
+ORDER BY SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100 DESC;
+
+
+-- 8. Turnover rate of employees from each department
 
 SELECT Department, COUNT(*) AS TotalEmployees, SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS `Left`, CONCAT(ROUND(SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100, 2), '%') AS TurnoverRate
 FROM employee_job
@@ -75,7 +82,7 @@ GROUP BY Department
 ORDER BY SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100 DESC;
 
 
--- 8. Turnover rate of employees from each job role
+-- 9. Turnover rate of employees from each job role
 
 SELECT JobRole, COUNT(*) AS TotalEmployees, SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS `Left`, CONCAT(ROUND(SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100, 2), '%') AS TurnoverRate
 FROM employee_job
@@ -83,7 +90,7 @@ GROUP BY JobRole
 ORDER BY SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100 DESC;
   
   
--- 9. Turnover rates by year
+-- 10. Turnover rates by year
 
 SELECT YEAR(HireDate) AS Year, COUNT(*) AS Hires, SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS `Resignation`, CONCAT(ROUND(SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) / COUNT(*) * 100, 2), '%') AS TurnoverRate
 FROM employee_job
@@ -91,7 +98,7 @@ GROUP BY YEAR(HireDate)
 ORDER BY Year;
 
 
--- 10. Changes in hire from each year
+-- 11. Changes in hire from each year
 
 SELECT YEAR(HireDate) AS Year, COUNT(*) AS Hires, LAG(COUNT(*)) OVER (ORDER BY YEAR(HireDate)) AS PreviousYearHires, COUNT(*) - LAG(COUNT(*)) OVER (ORDER BY YEAR(HireDate)) AS ChangeInHires,
 CASE
@@ -105,7 +112,7 @@ GROUP BY YEAR(HireDate)
 ORDER BY Year;
 
 
--- 11. Salary distribution among employees
+-- 12. Salary distribution among employees
 
 SELECT 
 CASE
@@ -128,7 +135,7 @@ GROUP BY SalaryRange
 ORDER BY FIELD(SalaryRange, 'Under 50K', '50K–99K', '100K–149K', '150K–199K', '200K–249K', '250K–299K', '300K–349K', '350K–399K', '400K–449K', '450K–499K', '500K–549K', '550K+');
 
 
--- 12. Average scores of 1 & 2 from EnvironmentSatisfaction, JobSatisfaction, RelationshipSatisfaction, and WorkLifeBalance
+-- 13. Average scores of 1 & 2 from EnvironmentSatisfaction, JobSatisfaction, RelationshipSatisfaction, and WorkLifeBalance
 
 SELECT
 SUM(CASE WHEN EnvironmentSatisfaction IN (1, 2) THEN 1 ELSE 0 END) AS LowEnvironmentSatisfaction, 
