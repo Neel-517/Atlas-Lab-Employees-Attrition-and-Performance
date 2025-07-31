@@ -6,7 +6,7 @@
 
 This analysis dives into detailed data on Atlas Lab employees. This dashboard is broken into 3 parts: Demographics, Jobs, and Ratings. 
 - <ins>Employee demographics</ins> consists of the breakdown of ethnicity, age groups, gender, state, and education levels.
-- <ins>Employee Jobs</ins> consists of changes of hire by year along with the attrition rate, salary ranges, gender breakdown in each department and job role, and employees overtime status.
+- <ins>Employee Jobs</ins> consists of changes of hire by year along with the attrition rate, salary ranges, gender breakdown in each department and job role, and employees' overtime status.
 - <ins>Employee Ratings</ins> consists of employees who gave a score of 1 through 5 on a 5-point scale, which includes environment satisfaction, job satisfaction, work-life balance, and relationship satisfaction.
 
 The objective is to identify issues in areas that may be correlated with turnover and potential solutions. 
