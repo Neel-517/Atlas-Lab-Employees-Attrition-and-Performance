@@ -19,7 +19,7 @@ The objective is to identify issues in areas that may be correlated with turnove
 <ins>**Ratings**</ins>
 ![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/0f61f4f3d00d67621102ceea7aebbf5a7c308482/Dashboard%20Sceenshots/Employee_Ratings.png)
 
-### **Overall** 
+## **Turnover Rates** 
 Overall| 16.12%
 :---:|:---:
 ### <br>**Turnover rates by year**
