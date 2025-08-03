@@ -65,7 +65,7 @@ HR Business Partner | 0.00%
 HR Manager | 0.00%
 
 ## **Ratings (Only scores of 1 & 2)** 
-Rating | Count of rating (out of 1470) | Low Rating Percentage
+Category | Count of rating (out of 1470) | Low Rating Percentage
 :---:|:---:|:---:
 Job Satisfaction | 381 | 25.92%
 Work Life Balance | 376 | 25.58%
