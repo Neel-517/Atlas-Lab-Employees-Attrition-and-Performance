@@ -64,7 +64,7 @@ Engineering Manager | 2.67%
 HR Business Partner | 0.00%
 HR Manager | 0.00%
 
-## **Ratings** 
+## **Ratings (Only scores of 1 & 2)** 
 Rating | Count of rating (out of 1470) | Low Rating Percentage
 :---:|:---:|:---:
 Job Satisfaction | 381 | 25.92%
