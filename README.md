@@ -9,7 +9,9 @@ This analysis dives into detailed data on Atlas Lab employees. This dashboard is
 - <ins>Employee Jobs</ins> consists of changes in hiring by year along with the attrition rate, salary ranges, gender breakdown in each department and job role, and employees' overtime status.
 - <ins>Employee Ratings</ins> consists of employees who gave a score of 1 through 5 on a 5-point scale, which includes environment satisfaction, job satisfaction, work-life balance, and relationship satisfaction.
 
-The objective is to identify issues in areas that may be correlated with turnover and potential solutions. 
+Each dashboard is composed of <ins>4 filters</ins>: **Year**, **Gender**, **Attrition** (to toggle results of those who already left), & **Department**
+
+The objective is to identify issues in areas that may be correlated with turnover and potential solutions.
 
 ## **Screenshots**
 <ins>**Demographics**</ins>
