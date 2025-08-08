@@ -84,4 +84,5 @@ Relationship Satisfaction | 373 | 25.37%
 - Conduct surveys for job roles with turnover rates to determine issues and to understand factors influencing turnovers, and take action accordingly.
 - Allow flexible work schedules for work-life balance while offering rest days.
 - Create learning paths and growth opportunities for each job role for job satisfaction improvement.
-- implement policies for anti-toxic for  relationship satisfaction and focus on team building with employees and managers.
+- Implement policies for anti-toxic for  relationship satisfaction and focus on team building with employees and managers.
+- Implement a 30-60-90 day plan let new hires know about the goals and objectives
