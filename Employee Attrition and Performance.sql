@@ -150,3 +150,13 @@ CONCAT(ROUND(SUM(CASE WHEN WorkLifeBalance IN (1, 2) THEN 1 ELSE 0 END) * 100.0 
 SUM(CASE WHEN RelationshipSatisfaction IN (1, 2) THEN 1 ELSE 0 END) AS LowRelationshipSatisfaction,
 CONCAT(ROUND(SUM(CASE WHEN RelationshipSatisfaction IN (1, 2) THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2), '%') AS `LowRelationshipSatisfaction%`
 FROM performance_rating;
+
+
+-- 14. Number of employees leaving after a certain number of years
+
+SELECT YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole, count(*) AS Total
+FROM employee_job
+WHERE Attrition = 'yes'
+GROUP BY YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole
+ORDER BY count(*) DESC
+limit 5;
