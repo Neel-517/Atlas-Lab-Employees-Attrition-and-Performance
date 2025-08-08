@@ -81,3 +81,7 @@ Work Life Balance | 376 | 25.58%
 Relationship Satisfaction | 373 | 25.37%
 
 ## **Suggestions** 
+- Conduct surveys for job roles with turnover rates to determine issues and to understand factors influencing turnovers, and take action accordingly.
+- Allow flexible work schedules for work-life balance while offering rest days.
+- 
+- 
