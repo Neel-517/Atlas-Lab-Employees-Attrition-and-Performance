@@ -6,7 +6,7 @@
 ### [Employee Job Dataset](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/b5cc88daa5002258f82647a6352402b43ebe6b0d/employee_job.csv)
 ### [Employee Ratings Dataset](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/b5cc88daa5002258f82647a6352402b43ebe6b0d/Performance_Rating.csv)
 
-## **Project** 
+## **Project Overview** 
 
 This analysis dives into detailed data on Atlas Lab employees. This dashboard is broken into 3 parts: Demographics, Jobs, and Ratings. 
 - <ins>Employee demographics</ins> consists of the breakdown of ethnicity, age groups, gender, state, and education levels.
@@ -80,9 +80,18 @@ Job Satisfaction | 381 | 25.92%
 Work Life Balance | 376 | 25.58%
 Relationship Satisfaction | 373 | 25.37%
 
+## **Number of employees leaving after a certain number of years (Top 5 results)**
+Years At Company | Years Since Last Promotion | Years In Most Recent Role | Total
+:---:|:---:|:---:|:---:
+0 | 0 | 0 | 60
+1 | 0 | 0 | 43
+1 | 1 | 1 | 11
+2 | 1 | 1 | 11
+3 | 1 | 1 | 8
+
 ## **Suggestions** 
-- Conduct surveys for job roles with turnover rates to determine issues and to understand factors influencing turnovers, and take action accordingly.
-- Allow flexible work schedules for work-life balance while offering rest days.
-- Create learning paths and growth opportunities for each job role for job satisfaction improvement.
-- Implement policies for anti-toxic for  relationship satisfaction and focus on team building with employees and managers.
-- Implement a 30-60-90 day plan let new hires know about the goals and objectives
+- <ins>**For every job role**</ins>: Conduct surveys to determine issues and to understand factors influencing turnover, and take action accordingly.
+- <ins>**Job satisfaction**</ins>: Create learning paths and growth opportunities for each job role.
+- <ins>**Work-life balance**</ins>: Allow flexible work schedules, while offering rest days.
+- <ins>**Relationship satisfaction**</ins>: Implement policies for anti-toxic and focus on team building with employees and managers.
+- <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan, and let new hires know about the goals and objectives.
