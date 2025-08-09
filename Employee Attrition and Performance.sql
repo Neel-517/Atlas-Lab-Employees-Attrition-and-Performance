@@ -98,7 +98,7 @@ GROUP BY YEAR(HireDate)
 ORDER BY Year;
 
 
--- 11. Changes in hire from each year
+-- 11. Changes in hires from each year
 
 SELECT YEAR(HireDate) AS Year, COUNT(*) AS Hires, LAG(COUNT(*)) OVER (ORDER BY YEAR(HireDate)) AS PreviousYearHires, COUNT(*) - LAG(COUNT(*)) OVER (ORDER BY YEAR(HireDate)) AS ChangeInHires,
 CASE
@@ -152,11 +152,11 @@ CONCAT(ROUND(SUM(CASE WHEN RelationshipSatisfaction IN (1, 2) THEN 1 ELSE 0 END)
 FROM performance_rating;
 
 
--- 14. Number of employees leaving after a certain number of years
+-- 14. Number of employees who left after the shortest time with the company
 
-SELECT YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole, count(*) AS Total
+SELECT YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole, COUNT(*) AS Total
 FROM employee_job
 WHERE Attrition = 'yes'
 GROUP BY YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole
 ORDER BY count(*) DESC
-limit 5;
+LIMIT 5;
