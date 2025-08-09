@@ -80,7 +80,7 @@ Job Satisfaction | 381 | 25.92%
 Work Life Balance | 376 | 25.58%
 Relationship Satisfaction | 373 | 25.37%
 
-## **Number of employees leaving after a certain number of years (Top 5 results)**
+## **Number of employees who left after the shortest time with the company (Top 5 results)**
 Years At Company | Years Since Last Promotion | Years In Most Recent Role | Total
 :---:|:---:|:---:|:---:
 0 | 0 | 0 | 60
@@ -94,4 +94,4 @@ Years At Company | Years Since Last Promotion | Years In Most Recent Role | Tota
 - <ins>**Job satisfaction**</ins>: Create learning paths and growth opportunities for each job role.
 - <ins>**Work-life balance**</ins>: Allow flexible work schedules, while offering rest days.
 - <ins>**Relationship satisfaction**</ins>: Implement policies for anti-toxic and focus on team building with employees and managers.
-- <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan, and let new hires know about the goals and objectives.
+- <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan to outline milestones and objectives, and let new hires know about the goals and mission.
