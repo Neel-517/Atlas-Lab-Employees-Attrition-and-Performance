@@ -91,7 +91,7 @@ Years At Company | Years Since Last Promotion | Years In Most Recent Role | Tota
 
 ## **Suggestions** 
 - <ins>**For every job role**</ins>: Conduct surveys to determine issues and to understand factors influencing turnover, and take action accordingly.
-- <ins>**Job satisfaction**</ins>: Create learning paths and growth opportunities for each job role.
-- <ins>**Work-life balance**</ins>: Allow flexible work schedules, while offering rest days.
-- <ins>**Relationship satisfaction**</ins>: Implement inclusive workplace model and get rid of toxic policies, and focus on team building with other employees and managers.
-- <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan to outline milestones and objectives, and let new hires know about the goals and mission.
+- <ins>**Job satisfaction**</ins>: Create learning paths and growth opportunities for each job role. Have one-on-one meetings to discuss expectations and any barriers. 
+- <ins>**Work-life balance**</ins>: Allow flexible work schedules, while offering rest days. Identify departments with continuous overtime and redistribute work to reduce burnout.
+- <ins>**Relationship satisfaction**</ins>: Implement an inclusive workplace model where employees are valued and get rid of toxic policies. Focus on team building with other employees and managers.
+- <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan to outline milestones and objectives, and let new hires know about the goals and mission. Check up on employees regularly to identify and fix issues.
