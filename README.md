@@ -19,11 +19,11 @@ The objective is to identify issues in areas that may be correlated with turnove
 
 ## **Screenshots**
 <ins>**Demographics**</ins>
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/0f61f4f3d00d67621102ceea7aebbf5a7c308482/Dashboard%20Sceenshots/Employee_Demographics.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/50d285e7b94fb31fd1959fa4e392b7862030581a/Dashboard%20Screenshots/Demographics.png)
 <ins>**Jobs**</ins>
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/0f61f4f3d00d67621102ceea7aebbf5a7c308482/Dashboard%20Sceenshots/Employee_Job.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/50d285e7b94fb31fd1959fa4e392b7862030581a/Dashboard%20Screenshots/Jobs.png)
 <ins>**Ratings**</ins>
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/0f61f4f3d00d67621102ceea7aebbf5a7c308482/Dashboard%20Sceenshots/Employee_Ratings.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/50d285e7b94fb31fd1959fa4e392b7862030581a/Dashboard%20Screenshots/Ratings.png)
 
 ## **Turnover Rates** 
 
