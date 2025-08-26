@@ -1,9 +1,4 @@
-/*
 -- Atlas Lab employees attrition & performance
-
--- Skills used: Joins, Aggregate Functions, Sorting, Limits, Percentage Calculations, Filtering, SELECT Statements, Data Categorization, ORDER BY, Aliasing, Case use, Window Functions, CASE Statements	
-
-*/
 
 
 -- Viewing all data
