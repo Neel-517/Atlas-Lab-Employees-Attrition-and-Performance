@@ -6,6 +6,15 @@
 ### [Employee Job Dataset](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/b5cc88daa5002258f82647a6352402b43ebe6b0d/employee_job.csv)
 ### [Employee Ratings Dataset](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/b5cc88daa5002258f82647a6352402b43ebe6b0d/Performance_Rating.csv)
 
+## **Tools Used** 
+
+1. **Excel**
+   - Data Cleaning & Preparation, Sorting, Filtering, Rearranging 
+2. **SQL**
+   - Joins, Aggregate Functions, Sorting, Limits, Percentage Calculations, Filtering, SELECT Statements, Data Categorization, ORDER BY, Aliasing, Window Functions, CASE Statements
+3. **Tableau**
+   - Filters, Parameters, Calculated Fields, Performance & Publishing, KPIs 
+
 ## **Project Overview** 
 
 This analysis dives into detailed data on Atlas Lab employees. This dashboard is broken into 3 parts: Demographics, Jobs, and Ratings. 
