@@ -34,13 +34,13 @@ The objective is to identify issues in areas that may be correlated with turnove
 <ins>**Ratings**</ins>
 ![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/50d285e7b94fb31fd1959fa4e392b7862030581a/Dashboard%20Screenshots/Ratings.png)
 
+# **Insights/Findings**
 ## **Turnover Rates** 
-
-### <br>**Overall Turnover**
+### **Overall Turnover**
 ---
 Overall| 16.12%
 :---:|:---:
-### <br>**Turnover rates by year**
+### **Turnover rates by year**
 ---
 Year |Turnover Rate
 :---:|:---:
@@ -56,7 +56,7 @@ Year |Turnover Rate
 2021 | 15.33%
 2022 | 16.13%
 
-### <br>**Turnover rates from each department**
+### **Turnover rates from each department**
 ---
 Department |Turnover Rate         
 :---:|:---:
@@ -64,7 +64,7 @@ Sales | 20.63%
 Human Resources | 19.05%
 Technology | 13.84%
 
-### <br>**Turnover rates from each job role**
+### **Turnover rates from each job role**
 ---
 Job Role |Turnover Rate
 :---:|:---:
@@ -89,7 +89,7 @@ Job Satisfaction | 381 | 25.92%
 Work Life Balance | 376 | 25.58%
 Relationship Satisfaction | 373 | 25.37%
 
-## **Number of employees who left after the shortest time with the company (Top 5 results)**
+## **Employees who left the company within the shortest tenure, with their promotion and role timelines (Top 5 results)**
 Years At Company | Years Since Last Promotion | Years In Most Recent Role | Total
 :---:|:---:|:---:|:---:
 0 | 0 | 0 | 60
