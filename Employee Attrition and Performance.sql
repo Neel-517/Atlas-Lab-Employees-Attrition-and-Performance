@@ -5,7 +5,9 @@
 
 SELECT * FROM employee_demographics
 JOIN employee_job
-ON employee_demographics.EmployeeID = employee_job.EmployeeID;
+ON employee_demographics.EmployeeID = employee_job.EmployeeID
+JOIN performance_rating
+ON performance_rating.EmployeeID = employee_job.EmployeeID;
 
 
 -- 1. Gender breakdown of employees
