@@ -149,7 +149,7 @@ CONCAT(ROUND(SUM(CASE WHEN RelationshipSatisfaction IN (1, 2) THEN 1 ELSE 0 END)
 FROM performance_rating;
 
 
--- 14. Number of employees who left after the shortest time with the company
+-- 14. How many employees left the company within the shortest tenure, and what were their promotion and role timelines?
 
 SELECT YearsAtCompany, YearsSinceLastPromotion, YearsInMostRecentRole, COUNT(*) AS Total
 FROM employee_job
