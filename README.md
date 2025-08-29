@@ -13,7 +13,7 @@
 2. **SQL**
    - Joins, Aggregate Functions, Sorting, Limits, Percentage Calculations, Filtering, SELECT Statements, Data Categorization, ORDER BY, Aliasing, Window Functions, CASE Statements
 3. **Tableau**
-   - Filters, Parameters, Calculated Fields, Performance & Publishing, KPIs 
+   - Filters, Parameters, Calculated Fields, Performance & Publishing, KPIs, Sets
 
 ## **Project Overview** 
 
