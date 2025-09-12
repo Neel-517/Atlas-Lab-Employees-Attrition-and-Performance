@@ -19,7 +19,7 @@
 
 This analysis dives into detailed data on Atlas Lab employees. This dashboard is broken into 3 parts: Demographics, Jobs, and Ratings 
 - <ins>Employee Demographics</ins> consists of the breakdown of Ethnicity, Gender, Age Groups, Education Levels, State, and Business Travel.
-- <ins>Employee Jobs</ins> consists of changes in hiring by year along with the attrition rate, Salary Ranges, gender breakdown in each department and job role, Stock Levels, and employees' Overtime Status.
+- <ins>Employee Jobs</ins> consists of changes in hiring by year, along with the attrition rate, Salary Ranges, gender breakdown in each department and job role, Stock Levels, and employees' Overtime Status.
 - <ins>Employee Ratings</ins> consists of employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Environment Satisfaction, Relationship Satisfaction, and Work-Life balance.
 
 Each dashboard consists of four filters: **Year**, **Gender**, **Attrition** (to toggle results of those who already left), & **Department**.
@@ -29,15 +29,15 @@ The objective is to identify issues in areas that may be correlated with turnove
 ## **Screenshots**
 <ins>**Demographics**</ins>
 
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/57ca2253fa3c80c455377a46ae7972feb3dbf6e0/Screenshots/Employee_Demographics.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/fcfea41a9923a10911baf376c540b82e11b42775/Dashboard%20Screenshots/Demographics.png)
 
 <ins>**Jobs**</ins>
 
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/57ca2253fa3c80c455377a46ae7972feb3dbf6e0/Screenshots/Employee_Jobs.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/fcfea41a9923a10911baf376c540b82e11b42775/Dashboard%20Screenshots/Jobs.png)
 
 <ins>**Ratings**</ins>
 
-![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/57ca2253fa3c80c455377a46ae7972feb3dbf6e0/Screenshots/Employee_Ratings.png)
+![image alt](https://github.com/Neel-517/Atlas-Lab-Employees-Attrition-and-Performance/blob/fcfea41a9923a10911baf376c540b82e11b42775/Dashboard%20Screenshots/Ratings.png)
 
 # **Insights/Findings**
 ## **Turnover Rates** 
