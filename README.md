@@ -18,9 +18,15 @@
 ## **Project Overview** 
 
 This analysis dives into detailed data on Atlas Lab employees. This dashboard is broken into 3 parts: Demographics, Jobs, and Ratings 
-- <ins>Employee Demographics</ins> consists of the breakdown of Ethnicity, Gender, Age Groups, Education Levels, State, and Business Travel.
-- <ins>Employee Jobs</ins> consists of changes in hiring by year, along with the attrition rate, Salary Ranges, gender breakdown in each department and job role, Stock Levels, and employees' Overtime Status.
-- <ins>Employee Ratings</ins> consists of employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Environment Satisfaction, Relationship Satisfaction, and Work-Life balance.
+- <ins>Demographics</ins>:
+  - Ethnicity breakdown, Gender breakdown, Headcount by Age Groups, Education Levels, State breakdown, and Business Travel.
+  - Average Tenure and Average Age.
+- <ins>Jobs</ins>:
+  - Attrition Rate & Hires by year, Salary Ranges, Gender breakdown in each department and job role, Stock Option Levels, and employees' Overtime Status.
+  - Overall Attrition Rate, Attrition count, Employee count, Number of job roles, and Average Salary.
+- <ins>Ratings</ins>
+   - Employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, Work-Life Satisfaction.
+   - A count and percentage of Low Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, Work-Life Satisfaction (Scores of 1 & 2 only).
 
 Each dashboard consists of four filters: **Year**, **Gender**, **Attrition** (to toggle results of those who already left), & **Department**.
 
