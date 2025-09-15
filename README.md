@@ -25,8 +25,8 @@ This analysis dives into detailed data on Atlas Lab employees. This dashboard is
   - Attrition Rate & Hires by year, Salary Ranges, Gender breakdown in each department and job role, Stock Option Levels, and employees' Overtime Status.
   - Overall Attrition Rate, Attrition count, Employee count, Number of job roles, and Average Salary.
 - <ins>Ratings</ins>
-   - Employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, Work-Life Satisfaction.
-   - A count and percentage of Low Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, Work-Life Satisfaction (Scores of 1 & 2 only).
+   - Employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, and Work-Life Satisfaction.
+   - A count and percentage of Low Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, and Work-Life Satisfaction (Scores of 1 & 2 only).
 
 Each dashboard consists of four filters: **Year**, **Gender**, **Attrition** (to toggle results of those who already left), & **Department**.
 
@@ -110,8 +110,24 @@ Years At Company | Years Since Last Promotion | Years In Most Recent Role | Tota
 3 | 1 | 1 | 8
 
 ## **Suggestions** 
-- 📝 <ins>**For every job role**</ins>: Conduct surveys to determine issues and to understand factors influencing turnover, and take action accordingly.
-- 💼 <ins>**Job satisfaction**</ins>: Create learning paths and growth opportunities for each job role. Have one-on-one meetings to discuss expectations and any barriers. 
-- 🌿 <ins>**Work-life balance**</ins>: Allow flexible work schedules, while offering rest days. Identify departments with continuous overtime and redistribute work to reduce burnout.
-- ❤️ <ins>**Relationship satisfaction**</ins>: Implement an inclusive workplace model where employees are valued and get rid of toxic policies. Focus on team building with other employees and managers.
-- 📊 <ins>**For new hires leaving early**</ins>: Implement a 30-60-90 day plan to outline milestones and objectives, and let new hires know about the goals and mission. Check up on employees regularly to identify and fix issues.
+- 📝 <ins>**For Job Roles**</ins>:
+  - Conduct surveys to determine issues and to understand factors influencing turnover, and take action accordingly.
+  - Offer more stock levels to employees to show inclusion and to make up for salary discrepancies.
+  - Improve overtime by setting priorities, improving efficiency, and regularly monitoring overtime conditions.
+- 💼 <ins>**Job satisfaction**</ins>:
+  - Offer career development opportunities.
+  - Have one-on-one meetings to discuss expectations and any barriers.
+  - Show recognition and appreciation for the work employees do. 
+- 🌿 <ins>**Work-life balance**</ins>:
+  - Allow flexible/Remote/Hybrid work schedules, while offering rest days.
+  - Encourage PTO & mental health days.
+  - Identify departments with continuous overtime and redistribute work to reduce burnout.
+- ❤️ <ins>**Relationship satisfaction**</ins>:
+  - Implement an inclusive workplace model where employees are valued.
+  - Get rid of toxic policies and make helpful, accepting policies.
+  - Focus on team building with other employees.
+  - Train managers in emotional intelligence, conflict resolution, and empathy.
+- 📊 <ins>**For new hires leaving early**</ins>:
+  - Implement a 30-60-90 day plan to outline milestones and objectives.
+  - Let new hires know about the goals and mission.
+  - Check up on employees regularly to identify and fix issues.
