@@ -1,6 +1,6 @@
 # Atlas Lab Employees: Attrition and Performance
 
-## [Tableau Dashboard](https://public.tableau.com/views/AtlasLabEmployees_17569549535190/Demographics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Tableau Dashboard](https://public.tableau.com/views/AtlasLabEmployees_AttritionPerformance/Demographics?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ## **Datasets**
 ### [Employee Demographics Dataset](https://github.com/Neel-517/Atlas-Lab-Employees/blob/9c82846a5873e4a98e2b55a51858e21a441ffcc6/Employee_Demographics.csv)
 ### [Employee Jobs Dataset](https://github.com/Neel-517/Atlas-Lab-Employees/blob/9c82846a5873e4a98e2b55a51858e21a441ffcc6/Employee_Job.csv)
