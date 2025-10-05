@@ -28,7 +28,7 @@ This analysis dives into detailed data on Atlas Lab employees. This dashboard is
    - Employees who gave a score of 1 through 5 on a 5-point scale, which includes Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, and Work-Life Satisfaction.
    - A count and percentage of Low Job Satisfaction, Relationship Satisfaction, Environment Satisfaction, and Work-Life Satisfaction (Scores of 1 & 2 only), along with the average score of each category.
 
-Each dashboard consists of four filters: **Year**, **Gender**, **Attrition** (to toggle results of those who already left), & **Department**.
+Each dashboard consists of five filters: **Year**, **Gender**, **Department**, **Job Role**, & **Attrition** (to toggle results of those who already left).
 
 The objective is to identify issues in areas that may be correlated with turnover and potential solutions.
 
